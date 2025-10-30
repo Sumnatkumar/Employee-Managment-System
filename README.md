@@ -1,7 +1,6 @@
 Employee Management System
 
 🌐URL = https://melodious-frangollo-6993a8.netlify.app/
-![App UI]()
 
 ⚙️ 1. UML Diagram Symbols (Standard Software Symbols)
 
